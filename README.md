@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DU-GP
 - 👀 I’m interested in data analysis and software development
-- 🌱 I’m currently learning Python programming 
+- 🌱 I’m currently learning Python programming from Power Learn Project 
 - 💞️ I’m looking to collaborate on other tech enthusiasts
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
